@@ -1,3 +1,4 @@
+//INTRODUCTION
 //what is javascript?
 //need-cleint side,server side,mobile development
 //ECMAScript-to create a scripting languauge(ECMA-262)
